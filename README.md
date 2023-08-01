@@ -1,6 +1,6 @@
 # mid-2017
 
-<img src="https://irisoflys.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/>
+<img src="https://irisoflys.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/> 
 
 <p>I think this is the earliest screenshot I have from my early attempts at making a website with a proper design from scratch. I tried to go with a minimalist modern design with lots of white space again, but I wasn't happy with the loose and sloppy way the pages behaved. In retrospect, the index page does look pretty cool, and if I only still had the source code I would share it with you over on my Github. In fact, I may try to remake it sometime. I do recall that I used bootstrap to center the elements on the page and make the buttons, so this places this design somewhere in mid to late 2017.</p>
 
