@@ -14,6 +14,4 @@
 
 <p>With this theme I got to experiment with a little bit of Javascript and jQuery, making my project descriptions toggle on and off. I actually started making tons of progress GIFs at this point with <a href="https://www.screentogif.com/" target="_blank" rel="nofollow">ScreenToGif</a>, and it's thanks to that that I'm able to recover bits of my progress to make this blog!</p>
 
-<p>Here's a screenshot of the whole site using the <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot FireFox extension</a>:</p>
 
-<img src="https://irisoflys.com/img/portfolioearly2017.png" alt="Screenshot of Entire First Portfolio" class="img-fluid"/>
